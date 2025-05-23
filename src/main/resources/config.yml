@@ -1,0 +1,13 @@
+bot-token: 'token'
+
+# Do not edit this data below, unless you really know what you are doing.
+poi:
+  place-1:
+    radius: 50
+    id: 0101010010
+    coordinates:
+      world: 'world'
+      x: 50
+      y: 50
+      z: 50
+verify:

@@ -1,0 +1,10 @@
+main: me.CheckmateChris1.AreaCalls.Main
+name: AreaCalls
+author: CheckmateChris1
+version: 1.0
+api-version: 1.16
+
+commands:
+  CallPoint:
+  Verify:
+  Unlink:
