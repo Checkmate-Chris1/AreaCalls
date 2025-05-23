@@ -32,7 +32,7 @@ public class Bot extends ListenerAdapter {
     public void startBot() throws LoginException {
         jda = JDABuilder.createDefault(token).build();
         jda.getPresence().setStatus(OnlineStatus.ONLINE);
-        jda.getPresence().setActivity(Activity.listening("Nagesy's nonsense"));
+        jda.getPresence().setActivity(Activity.listening("AreaCalls"));
         jda.addEventListener(this);
     }
 
